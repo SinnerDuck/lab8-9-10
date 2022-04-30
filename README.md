@@ -1,3 +1,6 @@
+Ильяс Жанабаев, В этой работе я сделал лабки 8, 9 и 10 в одном проекте.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
